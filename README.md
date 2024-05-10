@@ -1,7 +1,7 @@
 # MovieSearch-React
 
 ## Overview
-MovieSearch-React is a dynamic web application built with React that allows users to search and view movie details. This project utilizes the OMDB API to fetch real-time movie data based on user queries. Additionally, it integrates a mock API to retrieve movie images and titles for an engaging user interface.
+MovieSearch-React is a dynamic web application built with React that allows users to search and view movie details. This project utilizes the OMDB API to fetch real-time movie data based on user queries. Additionally, it integrates a mock API to retrieve add and edit movie info for an engaging user interface.
 
 The application is designed to be simple and user-friendly, providing movie enthusiasts with easy access to a vast database of movies, including details like the movie's title, director, synopsis, and more.
 
