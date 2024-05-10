@@ -1,0 +1,147 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+*{
+  font-family: "poppins";
+  padding: 0;
+  margin: 0;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+.Addmovie{
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    justify-content: center;
+    align-items: center;
+    margin: 30px auto;
+}
+.Addmovie .text{
+  width: 350px;
+}
+.portal{
+  display: flex;
+  flex-direction: column;
+}
+.movie-container{
+  display:flex;
+  flex-direction:column;
+  padding:10px;
+  width: 320px;
+  margin: 10px;
+  min-height: 550px;
+  /* box-shadow: 0 3px 10px 0 #3e3e3e; */
+  cursor:pointer;
+  border-radius: 10px;
+}
+.movie-year {
+  padding-top: 5%;
+}
+
+.movie-poster{
+  height: 350px;
+  width: 300px;
+  object-fit: cover;
+  border-radius: 20px;
+}
+.movie-spec{
+  /* display: flex;
+  align-items: center;
+  justify-content: space-between; */
+  padding: 0; 
+  
+}
+.movie-summary{
+  text-align: justify;
+}
+.movie-sum{
+  padding: 0 15px 0 10px;
+}
+.nav{
+  display: flex;
+  justify-content: right;
+  gap: 10px;
+  height: 20px;
+}
+.nav h1{
+  /* display: flex;
+  justify-content: flex-start; */
+  /* margin-left:60px ; */
+  font-size: 2rem;
+  color: #fff;
+  font-weight: 900;
+}
+.movie-list{
+   display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-left: 3rem;
+    margin-right: 3rem;
+    margin-top: 3rem;
+}
+.notfound{
+  background: url("https://cdn.dribbble.com/users/2019005/screenshots/5508560/404-page.gif") fixed no-repeat;
+  background-size: cover;
+  background-position: center;
+  height: 100vh;
+  display:flex ;
+  justify-content: center;
+  align-items: center;
+}
+.info{
+  display: flex;
+  justify-content: space-evenly;
+  margin-left: 3rem;
+  margin-right: 3rem;
+  margin-top: 3rem;
+}
+.search .search-bar{
+  width:270px;
+}
+
+.header{
+  text-align: center;
+}
+.searchinfo{
+  display:flex;
+  flex-wrap: wrap;
+    justify-content: center;
+    margin-left: 3rem;
+    margin-right: 3rem;
+    margin-top: 3rem;
+}
+.movie-poster-search{
+  
+  width: 400px; 
+  /* object-fit: cover;  */
+  border-radius: 20px;
+}
+.backbut{
+  margin-left : -20px;
+  padding: 0;
+}
+.home-image{
+  background-image: linear-gradient(
+    to right,
+    rgb(255, 163, 19, 0.6) 0%,
+    rgba(3, 37, 65, 0) 100%
+  ),
+  url("https://media.blogto.com/articles/20230627-cinestarz-woodbine-toronto.jpg?w=2048&cmd=resize_then_crop&height=1365&quality=70");
+min-height: 300px;
+background-position: center;
+background-size: cover;
+background-repeat: no-repeat;
+color: #fff;
+text-align: center;
+}
+.home-image h3{
+    font-size: 2rem;
+    font-weight: 500;
+    line-height: 1;
+    width: 100%;
+    margin-bottom: 20px;
+    margin-top: 2rem;
+}
+.header{
+  margin-top: 25px;
+  font-size: 50px;
+}
