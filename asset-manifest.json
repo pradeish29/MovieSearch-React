@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/MovieSearch-React/static/css/main.79db2417.css",
+    "main.js": "/MovieSearch-React/static/js/main.77859ddd.js",
+    "static/js/453.8d3e844a.chunk.js": "/MovieSearch-React/static/js/453.8d3e844a.chunk.js",
+    "index.html": "/MovieSearch-React/index.html",
+    "main.79db2417.css.map": "/MovieSearch-React/static/css/main.79db2417.css.map",
+    "main.77859ddd.js.map": "/MovieSearch-React/static/js/main.77859ddd.js.map",
+    "453.8d3e844a.chunk.js.map": "/MovieSearch-React/static/js/453.8d3e844a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.79db2417.css",
+    "static/js/main.77859ddd.js"
+  ]
+}
