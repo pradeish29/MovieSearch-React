@@ -5,6 +5,7 @@ MovieSearch-React is a dynamic web application built with React that allows user
 
 The application is designed to be simple and user-friendly, providing movie enthusiasts with easy access to a vast database of movies, including details like the movie's title, director, synopsis, and more.
 
+
 Check out the live demo here: [MovieSearch-React Live Demo](https://pradeish29.github.io/MovieSearch-React/)
 
 Click on go to home icon to see full website
